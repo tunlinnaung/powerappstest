@@ -114,13 +114,13 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "HelpDesk 2021",
+    "Name": "Help Desk Portal - DLMM",
     "OriginatingVersion": "1.314",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "HelpDesk 2021",
+    "AppName": "Help Desk Portal - DLMM",
     "BackgroundColor": "rgba(204, 228, 246, 1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "",
