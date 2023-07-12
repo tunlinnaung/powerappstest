@@ -309,7 +309,7 @@ HOME As screen:
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
         Size: =12
-        Text: ="My Tickets 👌"
+        Text: ="My New Tickets 👌"
         X: =105
         Y: =172
         ZIndex: =11
